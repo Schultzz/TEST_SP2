@@ -1,4 +1,4 @@
-# TestSPE2 - Søren Larsen
+# Test_SP2 - Morten Laursen & Søren Larsen
 
 ####Code coverage exercise
 
